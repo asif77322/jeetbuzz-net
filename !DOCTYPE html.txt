@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>JeetBuzz Net - বাংলাদেশে সেরা বেটিং বোনাস</title>
+  <meta name="description" content="JeetBuzz Net-এ জয়েন করুন ও নিন প্রথম ডিপোজিটে 100% বোনাস, ফ্রি স্পিন, ক্যাশব্যাক এবং আরও অনেক কিছু।"/>
+  <meta name="keywords" content="JeetBuzz, Bangladesh Betting, Online Bonus, Casino Bonus, JeetBuzz Affiliate"/>
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph for Facebook Preview -->
+  <meta property="og:title" content="JeetBuzz Net - বাংলাদেশে সেরা বোনাস সহ বেটিং সাইট">
+  <meta property="og:description" content="JeetBuzz Net-এ জয়েন করলেই পাচ্ছেন ১০০% বোনাস, ফ্রি স্পিন ও আরও অফার।">
+  <meta property="og:image" content="https://yourdomain.com/og-image.jpg">
+  <meta property="og:url" content="https://yourdomain.com">
+  <meta property="og:type" content="website">
+
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(#000814, #001d3d);
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .container {
+      padding: 30px 20px;
+    }
+    h1 {
+      font-size: 36px;
+      color: #ffd60a;
+    }
+    h2 {
+      font-size: 24px;
+      color: #ffb703;
+    }
+    .bonus-box {
+      background: #003566;
+      padding: 20px;
+      margin: 20px auto;
+      border-radius: 12px;
+      max-width: 500px;
+    }
+    .spin-wheel {
+      width: 200px;
+      height: 200px;
+      border: 10px solid #ffd60a;
+      border-radius: 50%;
+      margin: 30px auto;
+      background: conic-gradient(#ff006e 0% 25%, #8338ec 25% 50%, #3a0ca3 50% 75%, #00b4d8 75% 100%);
+      animation: spin 3s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .join-button {
+      background: #ff006e;
+      color: #fff;
+      padding: 15px 30px;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+      transition: background 0.3s;
+    }
+    .join-button:hover {
+      background: #ff4d6d;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎯 JeetBuzz Net-এ স্বাগতম!</h1>
+    <div class="bonus-box">
+      <h2>প্রথম ডিপোজিটে 100% বোনাস!</h2>
+      <p>JeetBuzz Net হলো বাংলাদেশের একটি জনপ্রিয় বেটিং সাইট যেখানে আপনি পাচ্ছেন ১০০% বোনাস, ফ্রি স্পিন ও লটারির অফার।</p>
+    </div>
+
+    <div class="spin-wheel"></div>
+    <p>🎁 লটারির চাকা ঘুরান – জিতে নিন ফ্রি বোনাস ও স্পিন!</p>
+
+    <a class="join-button" href="https://jeetbuzz66.site/af/YKAbfXWn/Om" target="_blank">এখনই জয়েন করুন</a>
+  </div>
+</body>
+</html>
